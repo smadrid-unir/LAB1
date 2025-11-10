@@ -25,6 +25,11 @@ lab1/
 - **Entradas separadas**: Cada entrada es una sección independiente, con su propio contenido e imagen.
 - **Imágenes ilustrativas**: Cada entrada incluye una imagen relevante, ubicada dentro de la propia sección.
 
+## Cómo visualizar el blog online
+
+- Puede consultarse la web mediante el siguiente enlace:
+https://smadrid-unir.github.io/LAB1/
+
 ## Cómo visualizar el blog on premise
 
 1. Descarga o clona el repositorio en tu equipo.
@@ -37,5 +42,6 @@ lab1/
 - Autor: smadrid
 - Actividad: Laboratorio 1 - Creación de un blog
 - Año: 2025
+
 
 ---
